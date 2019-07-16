@@ -1,0 +1,172 @@
+[
+  {
+    "provinceId": "11",
+    "provinceName": "ACEH",
+    "provinceNameEn": "ACEH"
+  },
+  {
+    "provinceId": "12",
+    "provinceName": "SUMATERA UTARA",
+    "provinceNameEn": "NORTH SUMATERA"
+  },
+  {
+    "provinceId": "13",
+    "provinceName": "SUMATERA BARAT",
+    "provinceNameEn": "WEST SUMATERA"
+  },
+  {
+    "provinceId": "14",
+    "provinceName": "RIAU",
+    "provinceNameEn": "RIAU"
+  },
+  {
+    "provinceId": "15",
+    "provinceName": "JAMBI",
+    "provinceNameEn": "JAMBI"
+  },
+  {
+    "provinceId": "16",
+    "provinceName": "SUMATERA SELATAN",
+    "provinceNameEn": "SOUTH SUMATERA"
+  },
+  {
+    "provinceId": "17",
+    "provinceName": "BENGKULU",
+    "provinceNameEn": "BENGKULU"
+  },
+  {
+    "provinceId": "18",
+    "provinceName": "LAMPUNG",
+    "provinceNameEn": "LAMPUNG"
+  },
+  {
+    "provinceId": "19",
+    "provinceName": "KEPULAUAN BANGKA BELITUNG",
+    "provinceNameEn": "BANGKA BELITUNG ISLANDS"
+  },
+  {
+    "provinceId": "21",
+    "provinceName": "KEPULAUAN RIAU",
+    "provinceNameEn": "RIAU ISLANDS"
+  },
+  {
+    "provinceId": "31",
+    "provinceName": "DAERAH KHUSUS IBUKOTA JAKARTA",
+    "provinceNameEn": "SPECIAL CAPITAL REGION OF JAKARTA"
+  },
+  {
+    "provinceId": "32",
+    "provinceName": "JAWA BARAT",
+    "provinceNameEn": "WEST JAVA"
+  },
+  {
+    "provinceId": "33",
+    "provinceName": "JAWA TENGAH",
+    "provinceNameEn": "CENTRAL JAVA"
+  },
+  {
+    "provinceId": "34",
+    "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+    "provinceNameEn": "SEPCIAL REGION OF YOGYAKARTA"
+  },
+  {
+    "provinceId": "35",
+    "provinceName": "JAWA TIMUR",
+    "provinceNameEn": "EAST JAVA"
+  },
+  {
+    "provinceId": "36",
+    "provinceName": "BANTEN",
+    "provinceNameEn": "BANTEN"
+  },
+  {
+    "provinceId": "51",
+    "provinceName": "BALI",
+    "provinceNameEn": "BALI"
+  },
+  {
+    "provinceId": "52",
+    "provinceName": "NUSA TENGGARA BARAT",
+    "provinceNameEn": "WEST NUSA TENGGARA"
+  },
+  {
+    "provinceId": "53",
+    "provinceName": "NUSA TENGGARA TIMUR",
+    "provinceNameEn": "EAST NUSA TENGGARA"
+  },
+  {
+    "provinceId": "61",
+    "provinceName": "KALIMANTAN BARAT",
+    "provinceNameEn": "WEST KALIMANTAN"
+  },
+  {
+    "provinceId": "62",
+    "provinceName": "KALIMANTAN TENGAH",
+    "provinceNameEn": "CENTRAL KALIMANTAN"
+  },
+  {
+    "provinceId": "63",
+    "provinceName": "KALIMANTAN SELATAN",
+    "provinceNameEn": "SOUTH KALIMANTAN"
+  },
+  {
+    "provinceId": "64",
+    "provinceName": "KALIMANTAN TIMUR",
+    "provinceNameEn": "EAST KALIMANTAN"
+  },
+  {
+    "provinceId": "65",
+    "provinceName": "KALIMANTAN UTARA",
+    "provinceNameEn": "NORTH KALIMANTAN"
+  },
+  {
+    "provinceId": "71",
+    "provinceName": "SULAWESI UTARA",
+    "provinceNameEn": "NORTH SULAWESI"
+  },
+  {
+    "provinceId": "72",
+    "provinceName": "SULAWESI TENGAH",
+    "provinceNameEn": "CENTRAL SULAWESI"
+  },
+  {
+    "provinceId": "73",
+    "provinceName": "SULAWESI SELATAN",
+    "provinceNameEn": "SOUTH SULAWESI"
+  },
+  {
+    "provinceId": "74",
+    "provinceName": "SULAWESI TENGGARA",
+    "provinceNameEn": "SOUTHEAST SULAWESI"
+  },
+  {
+    "provinceId": "75",
+    "provinceName": "GORONTALO",
+    "provinceNameEn": "GORONTALO"
+  },
+  {
+    "provinceId": "76",
+    "provinceName": "SULAWESI BARAT",
+    "provinceNameEn": "WEST SULAWESI"
+  },
+  {
+    "provinceId": "81",
+    "provinceName": "MALUKU",
+    "provinceNameEn": "MALUKU"
+  },
+  {
+    "provinceId": "82",
+    "provinceName": "MALUKU UTARA",
+    "provinceNameEn": "NORTH MALUKU"
+  },
+  {
+    "provinceId": "91",
+    "provinceName": "PAPUA",
+    "provinceNameEn": "PAPUA"
+  },
+  {
+    "provinceId": "92",
+    "provinceName": "PAPUA BARAT",
+    "provinceNameEn": "WEST PAPUA"
+  }
+]
